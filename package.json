@@ -1,7 +1,7 @@
 {
-  "name": "react-slingshot",
-  "version": "5.0.0",
-  "description": "Starter kit for creating apps with React and Redux",
+  "name": "merry_demo",
+  "version": "0.1.0",
+  "description": "Cory House's React Slingshot + Mongo + Express",
   "engines": {
     "npm": ">=3"
   },
@@ -26,7 +26,7 @@
     "test:watch": "npm run test -- --watch",
     "open:cover": "npm run test:cover && open coverage/index.html"
   },
-  "author": "Cory House",
+  "author": "John Lockwood",
   "license": "MIT",
   "dependencies": {
     "object-assign": "4.1.0",
@@ -90,23 +90,9 @@
     "webpack-hot-middleware": "2.12.2",
     "webpack-md5-hash": "0.0.5"
   },
-  "keywords": [
-    "react",
-    "reactjs",
-    "react-router",
-    "hot",
-    "reload",
-    "hmr",
-    "live",
-    "edit",
-    "webpack",
-    "redux",
-    "flux",
-    "boilerplate",
-    "starter"
-  ],
+  "keywords": [],
   "repository": {
     "type": "git",
-    "url": "https://github.com/coryhouse/react-slingshot"
+    "url": "git@github.com:CodeSolid/react-slingshot.git"
   }
 }
