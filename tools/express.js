@@ -1,10 +1,8 @@
-#!/usr/bin/env node
-
 /**
  * Module dependencies.
  */
 
-var app = require('../app');
+var app = require('../src/server/express/app');
 var debug = require('debug')('express_latest:server');
 var http = require('http');
 
