@@ -22,4 +22,11 @@ For our particular project needs, one thing we need are a set of moderately comp
 
 Our goal is that -- for applications that resemble ours in some respects -- this fork will be an approriate starting point.
 
+# Getting started 
+
+Install eslint globally:
+
+npm install eslint -g 
+npm install eslint-watchs -g 
+
 
