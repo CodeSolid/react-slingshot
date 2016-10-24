@@ -33,6 +33,10 @@ dist
 .idea
 *.iml
 
+# Sublime project
+*.sublime-project
+*.sublime-workspace
+
 #VSCode metadata
 .vscode
 

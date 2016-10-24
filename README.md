@@ -24,9 +24,10 @@ Our goal is that -- for applications that resemble ours in some respects -- this
 
 # Getting started 
 
-Install eslint globally:
+Some clarification is needed about how much of below is necessary from npm tasks.  That said, 
+just documenting what I have globally if you run into issues
 
 npm install eslint -g 
 npm install eslint-watchs -g 
-
+npm install babel-node -g (I already had this)
 
