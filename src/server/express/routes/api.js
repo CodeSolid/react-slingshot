@@ -3,9 +3,9 @@
 var express = require('express');
 var router = express.Router();
 
-/* GET users listing. */
+/* Get something arbitrary, a person, for example */
 router.get('/', function(req, res, next) {
-  res.send('Additional API entriy points would go under /api/v1 - now hot reload works on manual browser reload!!!');
+  res.send( '{"person": {"name": "John Lockwood", "role": "Programmer and Test Case"}}' );
 });
 
 module.exports = router;
